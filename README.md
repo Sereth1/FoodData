@@ -24,8 +24,9 @@ To run the application on your local machine, follow these steps:
 1)npm i 
 2)npm run start:backend
 3)npm run dev
-
-![image](https://github.com/Sereth1/FoodDate/assets/129552184/3452af30-5a55-4c1b-a358-e21aff12ce9a)
-![image](https://github.com/Sereth1/FoodDate/assets/129552184/296ab22b-b27f-4b64-9830-07a78bd99d81)
-![image](https://github.com/Sereth1/FoodDate/assets/129552184/23d48261-7b97-4df9-b1ea-9d687ef905a9)
 ![image](https://github.com/Sereth1/FoodDate/assets/129552184/4c8c488c-00df-444e-a5e3-8a908f259b5e)
+![image](https://github.com/Sereth1/FoodDate/assets/129552184/23d48261-7b97-4df9-b1ea-9d687ef905a9)
+![image](https://github.com/Sereth1/FoodDate/assets/129552184/296ab22b-b27f-4b64-9830-07a78bd99d81)
+![image](https://github.com/Sereth1/FoodDate/assets/129552184/3452af30-5a55-4c1b-a358-e21aff12ce9a)
+
+
