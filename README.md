@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Global Cuisine Search
 
-## Getting Started
+Overview
 
-First, run the development server:
+Global Cuisine Search is an innovative web application designed to connect users with a diverse range of culinary experiences from around the world. Utilizing a powerful combination of Next.js and React, the app offers a seamless interface for exploring and discovering traditional dishes from various countries.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Global Food Database: A comprehensive collection of foods from different countries, meticulously compiled and constantly updated.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Search Functionality: An intuitive search bar allows users to easily find foods by country or key ingredients.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Country Selection: Users can select a country from a dropdown menu to filter search results by regional cuisine.
 
-## Learn More
+Responsive Design: Built with a mobile-first approach, ensuring a great user experience on devices of all sizes.
 
-To learn more about Next.js, take a look at the following resources:
+Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js - The React framework for production.
+React - A JavaScript library for building user interfaces.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Getting Started
+To run the application on your local machine, follow these steps: 
+1)npm i 
+2)npm run start:backend
+3)npm run dev
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/Sereth1/FoodDate/assets/129552184/3452af30-5a55-4c1b-a358-e21aff12ce9a)
+![image](https://github.com/Sereth1/FoodDate/assets/129552184/296ab22b-b27f-4b64-9830-07a78bd99d81)
+![image](https://github.com/Sereth1/FoodDate/assets/129552184/23d48261-7b97-4df9-b1ea-9d687ef905a9)
+![image](https://github.com/Sereth1/FoodDate/assets/129552184/4c8c488c-00df-444e-a5e3-8a908f259b5e)
