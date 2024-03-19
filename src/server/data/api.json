@@ -1,0 +1,588 @@
+{
+  "greece": [
+    {
+      "name": "Moussaka",
+      "description": "A layered oven casserole dish made with vegetables and meat.",
+      "img": ""
+    },
+    {
+      "name": "Souvlaki",
+      "description": "Grilled pieces of meat served on a skewer.",
+      "img": ""
+    },
+    {
+      "name": "Spanakopita",
+      "description": "A spinach and feta cheese pie wrapped in phyllo pastry.",
+      "img": ""
+    },
+    {
+      "name": "Gyros",
+      "description": "Meat, usually pork, chicken, or lamb, roasted vertically and served wrapped in pita bread.",
+      "img": ""
+    },
+    {
+      "name": "Tzatziki",
+      "description": "A yogurt-based sauce with cucumber and garlic.",
+      "img": ""
+    },
+    {
+      "name": "Saganaki",
+      "description": "Fried cheese.",
+      "img": ""
+    },
+    {
+      "name": "Dolmadakia",
+      "description": "Grape leaves stuffed with rice and herbs.",
+      "img": ""
+    },
+    {
+      "name": "Baklava",
+      "description": "A sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey.",
+      "img": ""
+    },
+    {
+      "name": "Fasolada",
+      "description": "A bean soup considered the national dish of Greece.",
+      "img": ""
+    },
+    {
+      "name": "Koulouri",
+      "description": "A sesame bread ring resembling a bagel.",
+      "img": ""
+    }
+  ],
+  "italy": [
+    {
+      "name": "Pizza Margherita",
+      "description": "A simple pizza topped with tomatoes, mozzarella cheese, fresh basil, salt, and olive oil.",
+      "img": ""
+    },
+    {
+      "name": "Pasta Carbonara",
+      "description": "A pasta dish from Rome made with egg, hard cheese, cured pork, and black pepper.",
+      "img": ""
+    },
+    {
+      "name": "Lasagna",
+      "description": "A layered pasta dish made with alternating layers of pasta sheets, cheese, sauce, and meat.",
+      "img": ""
+    },
+    {
+      "name": "Risotto",
+      "description": "A creamy rice dish cooked in broth to a creamy consistency.",
+      "img": ""
+    },
+    {
+      "name": "Tiramisu",
+      "description": "A coffee-flavored Italian dessert made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavored with cocoa.",
+      "img": ""
+    },
+    {
+      "name": "Gelato",
+      "description": "Italian-style ice cream.",
+      "img": ""
+    },
+    {
+      "name": "Osso Buco",
+      "description": "A Lombard cuisine dish made with veal shanks cooked with vegetables, white wine, and broth.",
+      "img": ""
+    },
+    {
+      "name": "Caprese Salad",
+      "description": "A simple Italian salad made of sliced fresh mozzarella, tomatoes, and sweet basil, seasoned with salt and olive oil.",
+      "img": ""
+    },
+    {
+      "name": "Focaccia",
+      "description": "An oven-baked Italian bread product similar in style and texture to pizza doughs.",
+      "img": ""
+    },
+    {
+      "name": "Panzanella",
+      "description": "A Tuscan salad of bread and tomatoes that is popular in the summer.",
+      "img": ""
+    }
+  ],
+  "japan": [
+    {
+      "name": "Sushi",
+      "description": "Vinegared rice combined with various ingredients, such as seafood, vegetables, and occasionally tropical fruits.",
+      "img": ""
+    },
+    {
+      "name": "Ramen",
+      "description": "A noodle soup dish that was originally imported from China and has become one of the most popular dishes in Japan in recent decades.",
+      "img": ""
+    },
+    {
+      "name": "Tempura",
+      "description": "Seafood or vegetables that have been battered and deep fried.",
+      "img": ""
+    },
+    {
+      "name": "Sashimi",
+      "description": "Sliced raw fish or meat served with soy sauce and wasabi.",
+      "img": ""
+    },
+    {
+      "name": "Okonomiyaki",
+      "description": "A savory version of a Japanese pancake, made with flour, eggs, shredded cabbage, meat/protein, and topped with a variety of condiments.",
+      "img": ""
+    },
+    {
+      "name": "Takoyaki",
+      "description": "A ball-shaped Japanese snack made of a wheat flour-based batter and cooked in a special molded pan, filled with minced or diced octopus, tempura scraps, pickled ginger, and green onion.",
+      "img": ""
+    },
+    {
+      "name": "Miso Soup",
+      "description": "A traditional Japanese soup consisting of a stock called 'dashi' into which softened miso paste is mixed. It often contains seaweed, tofu, and spring onions.",
+      "img": ""
+    },
+    {
+      "name": "Tonkatsu",
+      "description": "A Japanese dish that consists of a breaded, deep-fried pork cutlet.",
+      "img": ""
+    },
+    {
+      "name": "Unagi",
+      "description": "A dish of grilled eel, usually served over rice.",
+      "img": ""
+    },
+    {
+      "name": "Kaiseki",
+      "description": "A traditional multi-course Japanese dinner. The term also refers to the collection of skills and techniques that allow the preparation of such meals, and is analogous to Western haute cuisine.",
+      "img": ""
+    }
+  ],
+  "thailand": [
+    {
+      "name": "Pad Thai",
+      "description": "A stir-fried rice noodle dish commonly served as a street food and at casual local eateries in Thailand.",
+      "img": ""
+    },
+    {
+      "name": "Tom Yum Goong",
+      "description": "A hot and sour Thai soup usually cooked with shrimp.",
+      "img": ""
+    },
+    {
+      "name": "Som Tam",
+      "description": "A spicy salad made from shredded unripe papaya.",
+      "img": ""
+    },
+    {
+      "name": "Massaman Curry",
+      "description": "A rich, relatively mild Thai curry that is an interpretation of a Persian dish.",
+      "img": ""
+    },
+    {
+      "name": "Green Curry",
+      "description": "Made with green chilies and flavored with a variety of aromatic herbs including lemongrass, kaffir lime leaves, and galangal.",
+      "img": ""
+    },
+    {
+      "name": "Red Curry",
+      "description": "Made with red chilies and is slightly more spicy and aromatic than Green Curry.",
+      "img": ""
+    },
+    {
+      "name": "Khao Pad",
+      "description": "Thai fried rice, typically with chicken, crab or shrimp, eggs, onions, and sometimes tomatoes.",
+      "img": ""
+    },
+    {
+      "name": "Pad Krapow Moo Saap",
+      "description": "Fried basil and pork - a popular street food dish.",
+      "img": ""
+    },
+    {
+      "name": "Gaeng Keow Wan Kai",
+      "description": "Green chicken curry.",
+      "img": ""
+    },
+    {
+      "name": "Mango Sticky Rice",
+      "description": "A traditional Thai dessert made with glutinous rice, fresh mango, and coconut milk.",
+      "img": ""
+    }
+  ],
+  "turkey": [
+    {
+      "name": "Kebab",
+      "description": "A broad variety of meat dishes originating in Turkish cuisine, kebabs can be grilled, roasted, or stewed meat dishes, often served on skewers."
+    },
+    {
+      "name": "Baklava",
+      "description": "A rich, sweet pastry made of layers of filo filled with chopped nuts, sweetened with syrup or honey."
+    },
+    {
+      "name": "Meze",
+      "description": "A selection of small dishes served as appetizers or accompaniments to alcoholic drinks."
+    },
+    {
+      "name": "Döner",
+      "description": "Meat cooked on a vertical rotisserie, traditionally lamb but now also chicken or beef, served in bread as a sandwich or wrapped in a flatbread."
+    },
+    {
+      "name": "Lahmacun",
+      "description": "A round, thin piece of dough topped with minced meat (most commonly beef or lamb), vegetables, and herbs including onions, tomatoes, and parsley, then baked."
+    },
+    {
+      "name": "Menemen",
+      "description": "A traditional Turkish dish which includes egg, onion, tomato, green peppers, and spices such as ground black pepper, ground red pepper, salt, and oregano."
+    },
+    {
+      "name": "Simit",
+      "description": "A circular bread, typically encrusted with sesame seeds or, less commonly, poppy, sunflower, flax, or pumpkin seeds, served plain or with preserves, cheese, or olives."
+    },
+    {
+      "name": "Börek",
+      "description": "A family of baked or fried filled pastries made of a thin flaky dough known as phyllo (or yufka), filled with cheese, minced meat, or vegetables."
+    },
+    {
+      "name": "İskender Kebab",
+      "description": "Thinly sliced lamb basted with hot tomato sauce over pieces of pita bread and generously slathered with melted sheep butter and yogurt. Tomato sauce and melted butter are generally poured over the dish, at the table."
+    },
+    {
+      "name": "Manti",
+      "description": "Turkish dumplings filled with a spiced meat mixture, usually lamb or beef, and served with a yogurt sauce."
+    }
+  ],
+  "poland": [
+    {
+      "name": "Pierogi",
+      "description": "Dumplings filled with a variety of ingredients, such as potatoes, cheese, meat, or fruits, often served with onions or sour cream."
+    },
+    {
+      "name": "Bigos",
+      "description": "A hearty stew of chopped meat of various kinds, sauerkraut, and shredded fresh cabbage, known as 'Hunter's stew'."
+    },
+    {
+      "name": "Żurek",
+      "description": "A sour rye soup with sausages, often served in a bread bowl."
+    },
+    {
+      "name": "Kotlet Schabowy",
+      "description": "A Polish variety of pork breaded cutlet coated with breadcrumbs similar to Wiener Schnitzel, but made of loin with the bone or without."
+    },
+    {
+      "name": "Placki Ziemniaczane",
+      "description": "Potato pancakes, often served with a dollop of sour cream or apple sauce."
+    },
+    {
+      "name": "Barszcz",
+      "description": "A beet soup, often served with sour cream or a dollop of cream; can be served clear or with other ingredients."
+    },
+    {
+      "name": "Gołąbki",
+      "description": "Cabbage rolls stuffed with spiced minced meat and rice or with mushrooms and rice, served with a tomato or mushroom sauce."
+    },
+    {
+      "name": "Kielbasa",
+      "description": "Polish sausage, comes in dozens of varieties, smoked or fresh."
+    },
+    {
+      "name": "Kaszanka",
+      "description": "Polish blood sausage, made of a mixture of blood, pork offal, and buckwheat or barley, seasoned with onion, pepper, and marjoram."
+    },
+    {
+      "name": "Naleśniki",
+      "description": "Polish pancakes, thin and filled with sweet or savory fillings, such as cheese, fruits, or meat."
+    }
+  ],
+  "germany": [
+    {
+      "name": "Bratwurst",
+      "description": "A type of German sausage made from pork, beef, or veal."
+    },
+    {
+      "name": "Sauerkraut",
+      "description": "Finely cut raw cabbage that has been fermented by various lactic acid bacteria."
+    },
+    {
+      "name": "Pretzel",
+      "description": "A type of baked bread product made from dough most commonly shaped into a twisted knot."
+    },
+    {
+      "name": "Schnitzel",
+      "description": "Meat, thinned by pounding with a meat tenderizer, coated with flour, beaten eggs and bread crumbs, and then fried."
+    },
+    {
+      "name": "Sauerbraten",
+      "description": "A pot roast, usually of beef (but other meats such as lamb, mutton, pork, and traditionally, horse), marinated before slow cooking as pot roast."
+    },
+    {
+      "name": "Spätzle",
+      "description": "A type of pasta made with fresh eggs, typically served as a side dish with meat, but also eaten alone or with sauces."
+    },
+    {
+      "name": "Kartoffelsalat",
+      "description": "German potato salad, typically made with potatoes, vinegar, oil, and onions."
+    },
+    {
+      "name": "Rouladen",
+      "description": "A dish consisting of bacon, onions, mustard, and pickles wrapped in thinly sliced beef which is then cooked."
+    },
+    {
+      "name": "Apfelstrudel",
+      "description": "An apple strudel, a traditional Viennese strudel, a popular pastry in Austria and in many countries in Europe that once belonged to the Austro-Hungarian empire."
+    },
+    {
+      "name": "Black Forest Cake",
+      "description": "A chocolate sponge cake with a rich cherry filling based on the German dessert Schwarzwälder Kirschtorte, literally 'Black Forest cherry-torte'."
+    }
+  ],
+  "india": [
+    {
+      "name": "Biryani",
+      "description": "A mixed rice dish with spices, rice, and meat (chicken, beef, goat, pork, lamb, prawn, or fish) or vegetables."
+    },
+    {
+      "name": "Butter Chicken",
+      "description": "A dish of chicken in a mildly spiced tomato sauce, served with rice or bread."
+    },
+    {
+      "name": "Chole Bhature",
+      "description": "A combination of chana masala (spicy white chickpeas) and fried bread called bhature (made of maida flour)."
+    },
+    {
+      "name": "Dosa",
+      "description": "A fermented crepe made from rice batter and black lentils, served with a variety of chutneys and sambar."
+    },
+    {
+      "name": "Palak Paneer",
+      "description": "A vegetarian dish consisting of paneer (a type of cottage cheese) in a thick paste made from puréed spinach and seasoned with garlic, garam masala, and other spices."
+    },
+    {
+      "name": "Rogan Josh",
+      "description": "A type of curry made with tender meat, typically lamb or goat, and a sauce flavored with garlic, ginger, and aromatic spices."
+    },
+    {
+      "name": "Samosa",
+      "description": "A fried or baked pastry with a savory filling, such as spiced potatoes, onions, peas, or lentils."
+    },
+    {
+      "name": "Tandoori Chicken",
+      "description": "Chicken marinated in yogurt and spices and then roasted in a tandoor, a cylindrical clay oven."
+    },
+    {
+      "name": "Naan",
+      "description": "A leavened, oven-baked flatbread found in the cuisines of Central and South Asia."
+    },
+    {
+      "name": "Gulab Jamun",
+      "description": "A sweet dessert consisting of deep-fried balls of dough made from milk solids, soaked in a syrup of sugar, rose water, and cardamom."
+    }
+  ],
+  "mexico": [
+    {
+      "name": "Tacos",
+      "description": "Corn or wheat tortilla folded or rolled around a filling such as beef, pork, chicken, seafood, vegetables, and cheese."
+    },
+    {
+      "name": "Enchiladas",
+      "description": "Corn tortillas rolled around a filling and covered with a chili pepper sauce, often served with a side of rice and beans."
+    },
+    {
+      "name": "Guacamole",
+      "description": "An avocado-based dip, spread, or salad first developed by the Aztecs in what is now Mexico."
+    },
+    {
+      "name": "Quesadillas",
+      "description": "A tortilla, usually a flour tortilla but also sometimes made with a corn tortilla, filled with cheese and sometimes meats, spices or other fillings, and then cooked on a griddle."
+    },
+    {
+      "name": "Chiles en nogada",
+      "description": "Poblano chiles stuffed with picadillo (a mixture usually containing shredded meat, aromatics, fruits and spices) topped with a walnut-based cream sauce, called nogada, and pomegranate seeds, giving it the three colors of the Mexican flag."
+    },
+    {
+      "name": "Tamales",
+      "description": "Masa (corn dough) steamed in a corn husk or banana leaf, filled with meats, cheeses, fruits, vegetables, chilies or any preparation according to taste, and both the filling and the cooking liquid may be seasoned."
+    },
+    {
+      "name": "Pozole",
+      "description": "A traditional soup or stew from Mexican cuisine, made from hominy, with meat (typically pork), and seasoned and garnished with shredded lettuce or cabbage, chile peppers, onion, garlic, radishes, avocado, salsa or limes."
+    },
+    {
+      "name": "Mole",
+      "description": "A traditional sauce originally used in Mexican cuisine, as well as for dishes based on these sauces. The sauces are complex and are made from a variety of ingredients including chili peppers, spices, chocolate, and fruit."
+    },
+    {
+      "name": "Ceviche",
+      "description": "A seafood dish typically made from fresh raw fish cured in fresh citrus juices, most commonly lemon or lime, and spiced with ají, chili peppers or other seasonings including chopped onions, salt, and cilantro."
+    },
+    {
+      "name": "Carnitas",
+      "description": "Mexican version of pulled pork, traditionally made by braising or simmering pork in oil or preferably lard until tender."
+    }
+  ],
+  "portugal": [
+    {
+      "name": "Bacalhau",
+      "description": "Codfish that has been salted and dried, often served with potatoes and onions."
+    },
+    {
+      "name": "Francesinha",
+      "description": "A Portuguese sandwich originally from Porto, made with bread, wet-cured ham, linguiça, fresh sausage like chipolata, steak or roast meat, and covered with melted cheese and a hot thick tomato and beer sauce."
+    },
+    {
+      "name": "Pastéis de Nata",
+      "description": "A Portuguese egg tart pastry, originally from Lisbon."
+    },
+    {
+      "name": "Caldo Verde",
+      "description": "A traditional Portuguese soup made with kale, potatoes, and sausage."
+    },
+    {
+      "name": "Cozido à Portuguesa",
+      "description": "A traditional Portuguese stew typically made with a variety of meats, sausages, and vegetables."
+    },
+    {
+      "name": "Feijoada",
+      "description": "A stew of beans with beef and pork, which is a typical Portuguese dish."
+    },
+    {
+      "name": "Arroz de Marisco",
+      "description": "A seafood rice dish, often considered a Portuguese version of paella."
+    },
+    {
+      "name": "Alheira",
+      "description": "A type of Portuguese sausage made from meats other than pork (traditionally game meats, poultry, and bread)."
+    },
+    {
+      "name": "Sardinhas Assadas",
+      "description": "Grilled sardines, a very popular dish especially in the summer during the traditional Saint Anthony's festivals."
+    },
+    {
+      "name": "Bifanas",
+      "description": "Portuguese pork cutlet sandwiches, typically seasoned with garlic and spices, served in a Portuguese roll."
+    }
+  ],
+  "china": [
+    {
+      "name": "Peking Duck",
+      "description": "A famous dish from Beijing, enjoying world fame, and considered as one of China’s national dishes."
+    },
+    {
+      "name": "Dim Sum",
+      "description": "A style of Chinese cuisine prepared as small bite-sized portions of food served in small steamer baskets or on small plates."
+    },
+    {
+      "name": "Hot Pot",
+      "description": "A Chinese cooking method, prepared with a simmering pot of soup stock at the dining table, containing a variety of East Asian foodstuffs and ingredients."
+    },
+    {
+      "name": "Kung Pao Chicken",
+      "description": "A spicy, stir-fried Chinese dish made with cubes of chicken, peanuts, vegetables, and chili peppers."
+    },
+    {
+      "name": "Mapo Tofu",
+      "description": "A popular Chinese dish from Sichuan province. It consists of tofu set in a spicy sauce, typically a thin, oily, and bright red suspension, based on doubanjiang (bean paste) and douchi (fermented black beans), along with minced meat, traditionally beef."
+    },
+    {
+      "name": "Dumplings",
+      "description": "A broad class of dishes that consist of pieces of dough (made from a variety of starch sources) wrapped around a filling, or of dough with no filling. The dough can be bread, flour, or potatoes, and the filling can be meat, vegetables, or sweets."
+    },
+    {
+      "name": "Chow Mein",
+      "description": "A Chinese dish of stir-fried noodles with vegetables and sometimes meat or tofu; the name is a romanization of the Taishanese chāu-mèing."
+    },
+    {
+      "name": "Spring Rolls",
+      "description": "A large variety of filled, rolled appetizers or dim sum found in East Asian and Southeast Asian cuisine."
+    },
+    {
+      "name": "Sweet and Sour Pork",
+      "description": "The dish consists of deep fried pork in bite-sized pieces, and subsequently stir-fried in a more customized version of sweet and sour sauce made out of sugar, ketchup, white vinegar, and soy sauce."
+    },
+    {
+      "name": "Wonton Soup",
+      "description": "A Cantonese comfort food consisting of broth filled with dumplings made with wrappers and filled with pork and shrimp."
+    }
+  ],
+  "indonesia": [
+    {
+      "name": "Peking Duck",
+      "description": "A famous dish from Beijing, enjoying world fame, and considered as one of China’s national dishes."
+    },
+    {
+      "name": "Dim Sum",
+      "description": "A style of Chinese cuisine prepared as small bite-sized portions of food served in small steamer baskets or on small plates."
+    },
+    {
+      "name": "Hot Pot",
+      "description": "A Chinese cooking method, prepared with a simmering pot of soup stock at the dining table, containing a variety of East Asian foodstuffs and ingredients."
+    },
+    {
+      "name": "Kung Pao Chicken",
+      "description": "A spicy, stir-fried Chinese dish made with cubes of chicken, peanuts, vegetables, and chili peppers."
+    },
+    {
+      "name": "Mapo Tofu",
+      "description": "A popular Chinese dish from Sichuan province. It consists of tofu set in a spicy sauce, typically a thin, oily, and bright red suspension, based on doubanjiang (bean paste) and douchi (fermented black beans), along with minced meat, traditionally beef."
+    },
+    {
+      "name": "Dumplings",
+      "description": "A broad class of dishes that consist of pieces of dough (made from a variety of starch sources) wrapped around a filling, or of dough with no filling. The dough can be bread, flour, or potatoes, and the filling can be meat, vegetables, or sweets."
+    },
+    {
+      "name": "Chow Mein",
+      "description": "A Chinese dish of stir-fried noodles with vegetables and sometimes meat or tofu; the name is a romanization of the Taishanese chāu-mèing."
+    },
+    {
+      "name": "Spring Rolls",
+      "description": "A large variety of filled, rolled appetizers or dim sum found in East Asian and Southeast Asian cuisine."
+    },
+    {
+      "name": "Sweet and Sour Pork",
+      "description": "The dish consists of deep fried pork in bite-sized pieces, and subsequently stir-fried in a more customized version of sweet and sour sauce made out of sugar, ketchup, white vinegar, and soy sauce."
+    },
+    {
+      "name": "Wonton Soup",
+      "description": "A Cantonese comfort food consisting of broth filled with dumplings made with wrappers and filled with pork and shrimp."
+    }
+  ],
+  "france": [
+    {
+      "name": "Coq au Vin",
+      "description": "Chicken braised with wine, lardons, mushrooms, and optionally garlic."
+    },
+    {
+      "name": "Bouillabaisse",
+      "description": "A traditional Provençal fish stew originating from the port city of Marseille."
+    },
+    {
+      "name": "Ratatouille",
+      "description": "A stewed vegetable dish originating from Nice, consisting of zucchini, eggplant, bell peppers, onion, tomato, and seasoned with herbs."
+    },
+    {
+      "name": "Quiche Lorraine",
+      "description": "A savoury pie from the Lorraine region made with eggs, cream, and bacon."
+    },
+    {
+      "name": "Escargot",
+      "description": "Snails cooked with garlic butter, chicken stock, or wine."
+    },
+    {
+      "name": "Foie Gras",
+      "description": "A delicacy made from the liver of a duck or goose that has been specially fattened."
+    },
+    {
+      "name": "Tarte Tatin",
+      "description": "An upside-down pastry in which the fruit (usually apples) are caramelized in butter and sugar before the tart is baked."
+    },
+    {
+      "name": "Croissant",
+      "description": "A buttery, flaky, viennoiserie pastry of Austrian origin, named for its historical crescent shape."
+    },
+    {
+      "name": "Crème Brûlée",
+      "description": "A dessert consisting of a rich custard base topped with a contrasting layer of hard caramel."
+    },
+    {
+      "name": "Soupe à l’Oignon",
+      "description": "French onion soup made with beef broth and caramelized onions, often served gratinéed with cheese on top of a large piece of bread."
+    }
+  ]
+}

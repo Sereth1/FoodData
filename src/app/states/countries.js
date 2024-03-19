@@ -1,0 +1,15 @@
+exports.countries = [
+  "Greece",
+  "Italy",
+  "Japan",
+  "Thailand",
+  "Turkey",
+  "Poland",
+  "Germany",
+  "India",
+  "Mexico",
+  "Portugal",
+  "China",
+  "Indonesia",
+  "France",
+];

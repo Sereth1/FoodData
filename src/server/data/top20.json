@@ -1,0 +1,102 @@
+[
+  {
+    "country": "Italy",
+    "name": "Pizza",
+    "description": "A savory dish with a dough base, traditionally topped with tomato sauce, mozzarella cheese, and various other ingredients."
+  },
+  {
+    "country": "USA",
+    "name": "Cheeseburger",
+    "description": "A hamburger topped with cheese, typically served with lettuce, tomato, onion, pickles, bacon, or chiles."
+  },
+  {
+    "country": "Japan",
+    "name": "Sushi",
+    "description": "A dish featuring vinegared rice paired with various toppings and fillings, such as seafood and vegetables."
+  },
+  {
+    "country": "Mexico",
+    "name": "Taco",
+    "description": "A traditional Mexican dish consisting of small hand-sized corn or wheat tortillas topped with a filling."
+  },
+  {
+    "country": "China",
+    "name": "Peking Duck",
+    "description": "A famous Beijing dish known for its thin, crispy skin, served with pancakes, spring onions, and hoisin sauce."
+  },
+  {
+    "country": "India",
+    "name": "Tandoori Chicken",
+    "description": "Chicken marinated in yogurt and spices, then cooked in a tandoor, a cylindrical clay oven."
+  },
+  {
+    "country": "Thailand",
+    "name": "Pad Thai",
+    "description": "A stir-fried rice noodle dish commonly served as street food, typically with shrimp or chicken."
+  },
+  {
+    "country": "Spain",
+    "name": "Paella",
+    "description": "A Valencian rice dish with ancient roots that typically includes rice, saffron, chicken, and seafood."
+  },
+  {
+    "country": "France",
+    "name": "Croissant",
+    "description": "A buttery, flaky pastry named for its crescent shape, associated with French breakfasts."
+  },
+  {
+    "country": "Greece",
+    "name": "Moussaka",
+    "description": "An eggplant- or potato-based casserole dish, often including ground meat and béchamel sauce."
+  },
+  {
+    "country": "Turkey",
+    "name": "Baklava",
+    "description": "A rich, sweet dessert pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey."
+  },
+  {
+    "country": "Belgium",
+    "name": "Belgian Waffles",
+    "description": "A variety of waffle with a lighter batter, larger squares, and deeper pockets than ordinary American waffles."
+  },
+  {
+    "country": "England",
+    "name": "Fish and Chips",
+    "description": "A hot dish consisting of fried fish in batter served with chips, traditionally eaten with salt and vinegar."
+  },
+  {
+    "country": "Brazil",
+    "name": "Feijoada",
+    "description": "A stew of beans with beef and pork, considered the national dish of Brazil."
+  },
+  {
+    "country": "Lebanon",
+    "name": "Hummus",
+    "description": "A spread made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic."
+  },
+  {
+    "country": "Korea",
+    "name": "Kimchi",
+    "description": "A traditional side dish of salted and fermented vegetables, such as napa cabbage and Korean radish."
+  },
+  {
+    "country": "Morocco",
+    "name": "Tagine",
+    "description": "A North African Maghreb dish named after the earthenware pot in which it is cooked, often with meat and vegetables."
+  },
+  {
+    "country": "Australia",
+    "name": "Vegemite Sandwich",
+    "description": "A sandwich spread with Vegemite, a thick, black Australian food spread made from leftover brewers' yeast extract."
+  },
+  {
+    "country": "Germany",
+    "name": "Sauerbraten",
+    "description": "A pot roast, usually of beef (but other meats such as lamb, mutton, pork, and traditionally, horse), marinated before slow cooking."
+  },
+  {
+    "country": "Vietnam",
+    "name": "Pho",
+    "description": "A Vietnamese soup consisting of broth, rice noodles, herbs, and meat, primarily made with either beef or chicken."
+  }
+]
